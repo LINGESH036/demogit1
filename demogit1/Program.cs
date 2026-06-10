@@ -11,6 +11,7 @@ namespace demogit1
         static void Main(string[] args)
         {
             Console.WriteLine("welcome");
+            Console.WriteLine(" To trichy");
         }
     }
 }
